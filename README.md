@@ -1,3 +1,5 @@
+# Patika Redux Todo App [Live Server](https://redux-todo-app-berke.surge.sh/)
+![redux-todo-app](./src/redux-todo.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
